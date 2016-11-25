@@ -27,7 +27,7 @@ xkb_symbols "pc105" {
     key <LWIN> {	[ Super_L		]	};
 
     key <RTSH> {	[ Shift_R		]	};
-    key <RCTL> {	[ MENU		]	};
+    key <RCTL> {	[ Menu		]	};
     key <RWIN> {	[ Super_R		]	};
     key <MENU> {	[ Menu			]	};
 
